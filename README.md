@@ -1,5 +1,7 @@
 # Bohne
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 This gem will convert your iOS NIBs to tvOS ones.
 
 ## Usage
